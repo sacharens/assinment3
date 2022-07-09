@@ -22,15 +22,25 @@ ex3 -  Practice the usage of CNN.ipynb
 Simply run the notebooks
 ### Dependencies
 Linux system with anaconda environment and interpreter.
+
 The fallowing libraries must be installed
 
 
 import os
+
 import scipy.io as sio
+
 import numpy as np
+
 import glob
+
 import random
+
 import pandas as pd
+
 import tensorflow as tf
+
 import matplotlib.pyplot as plt
+
 from tensorboard.plugins.hparams import api as hp 
+
